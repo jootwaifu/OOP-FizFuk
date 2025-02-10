@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/jootwaifu/CLionProjects/OOP-FizFuk/dynamical_array Select CMakeLists.txt
